@@ -34,12 +34,12 @@
         ],
         "keybindings": [
             {
-                "key": "alt+w",
+                "key": "alt+,",
                 "command": "cursorUp",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+s",
+                "key": "alt+o",
                 "command": "cursorDown",
                 "when": "textInputFocus"
             },
@@ -49,7 +49,7 @@
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+d",
+                "key": "alt+e",
                 "command": "cursorRight",
                 "when": "textInputFocus"
             },
