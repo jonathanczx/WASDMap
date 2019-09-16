@@ -1,5 +1,5 @@
-# WASDMap
-Keymap extension for keyboard navigation, selection, and window splitting and navigation based on WASD.
+# WASDMap (Dvorak ,aoe)
+Keymap extension for keyboard navigation, selection, and window splitting and navigation based on WASD (using Dvorak key layout). I've only changed WASD to ,AOE in this fork.
 
 ## Requirements
 This requires at least version 1.25 of Visual Studio Code to fully work.
@@ -23,10 +23,10 @@ The following shortcuts are for moving the cursor throughout the current active 
 
 | Shortcut | Action |
 |----------|--------|
-| `Alt+W`  | Move cursor up |
+| `Alt+,`  | Move cursor up |
 | `Alt+A`  | Move cursor left |
-| `Alt+S`  | Move cursor right |
-| `Alt+D`  | Move cursor down |
+| `Alt+O`  | Move cursor right |
+| `Alt+E`  | Move cursor down |
 | `Alt+F`  | Move cursor forward one word |
 | `Alt+B`  | Move cursor backward one word |
 | `Alt+N`  | Move cursor down one page |
