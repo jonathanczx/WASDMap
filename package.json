@@ -1,13 +1,13 @@
 {
     "name": "wasdmap",
-    "displayName": "WASDMap",
-    "description": "Keyboard navigation, selection, and window splitting and navigation based on WASD.",
+    "displayName": "WASDMap (dvorak: ,aoe)",
+    "description": "Keyboard navigation, selection, and window splitting and navigation based on a fork of WASDMap https://github.com/mvromer/WASDMap for the DVORAK layout",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mvromer/WASDMap"
+        "url": "https://github.com/TravisHi/WASDMap"
     },
     "version": "0.1.0",
-    "publisher": "mvromer",
+    "publisher": "TravisHi",
     "engines": {
         "vscode": "^1.25.0"
     },
