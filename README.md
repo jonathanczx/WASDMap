@@ -19,7 +19,7 @@ Keyboard shortcuts are based around WASD, a key layout common to many modern PC 
 
 ## Keyboard Shortcuts
 ### Cursor Navigation
-The following shortcuts are for moving the cursor throughout the current active editor.
+Move the cursor through the editor.
 
 | Shortcut | Action |
 |----------|--------|
@@ -27,12 +27,12 @@ The following shortcuts are for moving the cursor throughout the current active 
 | `Alt+A`  | Move cursor left |
 | `Alt+O`  | Move cursor right |
 | `Alt+E`  | Move cursor down |
-| `Alt+F`  | Move cursor forward one word |
-| `Alt+B`  | Move cursor backward one word |
-| `Alt+N`  | Move cursor down one page |
-| `Alt+P`  | Move cursor up one page |
-| `Alt+J`  | Move cursor to start of current line |
-| `Alt+K`  | Move cursor to end of current line|
+| `Alt+U`  | Move cursor forward one word |
+| `Alt+X`  | Move cursor backward one word |
+| `Alt+B`  | Move cursor down one page |
+| `Alt+L`  | Move cursor up one page |
+| `Alt+H`  | Move cursor to start of current line |
+| `Alt+T+`  | Move cursor to end of current line|
 
 ### Selection
 The following shortcuts are for making selections within the current active editor.
@@ -107,25 +107,7 @@ The following shortcuts are for moving a document from one editor group to anoth
 | `Ctrl+K Shift+Alt+D` | Move current document in active editor group to the group below |
 
 ## Background
-In a prior life, I was an Emacs junkie. With every year I sunk into using that editor, the faster my fingers flew across the keyboard pounding out crazy key chords for all manners of tasks.
-
-Then one day I stopped being a Linux developer and took a job working 100% on a Microsoft stack. I tried emacs for Windows, but the impedance mismatch was too great, and plus, there were too many productivity gains I'd be leaving on the table by not embracing Visual Studio.
-
-Despite growing accustomed to my new development digs, I ended up missing two main features from my Emacs days:
-
-1. Slick navigation throughout the editor using key combinations that didn't force me to move away from home row.
-2. Arbitrarily splitting my editor into any arrangement of vertical and horizontal panes, again all from home row.
-
-I eventually moved to Sublime for anything that wasn't heavily C++ or C# based, and I thought I had found the holy grail there. With some custom extensions and additional hacking, I was able to recreate many of the navigation and window splitting features I missed from Emacs.
-
-Fast forward to July 2018, and Visual Studio Code comes out with features in the box for performing the exact same set of window splitting tasks as I had grown to love in both Emacs and Sublime. This was the missing piece that had otherwise prevented me from switching from Sublime to VS Code. This immediately led to the creation of a keymap that made it efficient for me to access these window splitting and editor navigation commands.
-
-In creating this keymap, I wanted to fulfill two goals:
-
-1. Not force myself off home row in order to access these commands (e.g., don't be forced to use the arrow keys).
-2. Avoid conflicts as much as possible with default shortcuts for commands provided by Visual Studio Code.
-
-The end result of that effort is this keymap extension.
+This is a keybinding I adjusted to match https://github.com/mvromer/WASDMap for Dvorak keyboard layout (VS Code not registering updated keyboard layout).
 
 ## License
-[MIT](https://github.com/mvromer/WASDMap/blob/master/LICENSE) © Michael Romer
+[MIT]
