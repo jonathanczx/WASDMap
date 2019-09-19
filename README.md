@@ -32,7 +32,7 @@ Move the cursor through the editor.
 | `Alt+B`  | Move cursor down one page |
 | `Alt+L`  | Move cursor up one page |
 | `Alt+H`  | Move cursor to start of current line |
-| `Alt+T+`  | Move cursor to end of current line|
+| `Alt+T`  | Move cursor to end of current line|
 
 ### Selection
 The following shortcuts are for making selections within the current active editor.
