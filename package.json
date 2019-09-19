@@ -54,32 +54,32 @@
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+f",
+                "key": "alt+u",
                 "command": "cursorWordEndRight",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+b",
+                "key": "alt+x",
                 "command": "cursorWordStartLeft",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+n",
+                "key": "alt+b",
                 "command": "cursorPageDown",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+p",
+                "key": "alt+l",
                 "command": "cursorPageUp",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+w",
+                "key": "shift+alt+,",
                 "command": "cursorUpSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+s",
+                "key": "shift+alt+o",
                 "command": "cursorDownSelect",
                 "when": "textInputFocus"
             },
@@ -89,37 +89,37 @@
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+d",
+                "key": "shift+alt+e",
                 "command": "cursorRightSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+f",
+                "key": "shift+alt+u",
                 "command": "cursorWordEndRightSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+b",
+                "key": "shift+alt+x",
                 "command": "cursorWordStartLeftSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+n",
+                "key": "shift+alt+x",
                 "command": "cursorPageDownSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "shift+alt+p",
+                "key": "shift+alt+l",
                 "command": "cursorPageUpSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+j",
+                "key": "alt+h",
                 "command": "cursorHome",
                 "when": "textInputFocus"
             },
             {
-                "key": "alt+k",
+                "key": "alt+t",
                 "command": "cursorEnd",
                 "when": "textInputFocus"
             },
