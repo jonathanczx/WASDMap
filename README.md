@@ -1,4 +1,4 @@
-# WASDMap (Dvorak ,aoe)
+# WASDMap (Dvorak, aoe)
 Keymap extension for keyboard navigation, selection, and window splitting and navigation based on WASD (using Dvorak key layout). I've only changed WASD to ,AOE in this fork.
 
 ## Requirements
